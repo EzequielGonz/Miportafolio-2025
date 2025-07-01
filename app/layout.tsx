@@ -12,13 +12,30 @@ export const metadata: Metadata = {
     title: "¡Bienvenido a mi Portafolio! | Ezequiel González",
     description: "Diseñador y Desarrollador Web especializado en crear experiencias digitales únicas y funcionales",
     type: "website",
+    images: [
+      {
+        url: "/memoji2-removebg-preview.png",
+        width: 512,
+        height: 512,
+        alt: "Ezequiel González Memoji"
+      }
+    ]
   },
   twitter: {
     title: "¡Bienvenido a mi Portafolio! | Ezequiel González",
     description: "Diseñador y Desarrollador Web especializado en crear experiencias digitales únicas y funcionales",
     card: "summary_large_image",
+    images: [
+      {
+        url: "/memoji2-removebg-preview.png",
+        alt: "Ezequiel González Memoji"
+      }
+    ]
   },
-    generator: 'v0.dev'
+  icons: {
+    icon: "/favicon.ico"
+  },
+  generator: 'v0.dev'
 }
 
 export default function RootLayout({

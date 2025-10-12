@@ -57,7 +57,7 @@ const projects = [
     id: 5,
     title: "SaintMary - Pagina Web",
     description: "Tienda online totalmente responsiva, desarrollada con panel de administración completo que permite la gestión integral de productos, incluyendo subida de imágenes, edición, eliminación y actualización de información. Cuenta con una base de datos integrada para el manejo eficiente del inventario y ofrece una experiencia de compra fluida y moderna para los usuarios.",
-    image: "https://i.ibb.co/wNKbhTBk/SAINTMERYpreview.png",
+    image: "https://i.postimg.cc/6718QGgP/SAINTMERYpreview.png",
     url: "https://v0-landing-page-dietetica.vercel.app/",
     github: "https://github.com/EzequielGonz/Saintmery---ECommerce",
     category: "E-commerce",

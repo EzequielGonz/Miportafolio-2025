@@ -31,7 +31,7 @@ const footerLinks = [
       { name: "Blog", href: "#" },
       { name: "Tutoriales", href: "#" },
       { name: "Portfolio", href: "#" },
-      { name: "CV", href: "/documents/Ezequiel-Gonzalez-15-11-24_241119_080506.pdf" },
+      { name: "CV", href: "/documents/EzequielGonzalez-CV.docx" },
       { name: "FAQ", href: "#" },
     ]
   }

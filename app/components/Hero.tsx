@@ -187,8 +187,8 @@ export default function Hero() {
             </motion.a>
 
             <motion.a
-              href="/documents/Ezequiel-Gonzalez-15-11-24_241119_080506.pdf"
-              download="Ezequiel-Gonzalez-CV.pdf"
+              href="/documents/EzequielGonzalez-CV.docx"
+              download="Ezequiel-Gonzalez-CV.docx"
               className="group border-2 border-white/20 hover:border-custom-purple text-white px-8 py-4 rounded-full text-lg font-medium transition-all duration-300 inline-flex items-center gap-2 hover:bg-white/5"
               whileHover={{ scale: 1.05, y: -2 }}
               whileTap={{ scale: 0.95 }}

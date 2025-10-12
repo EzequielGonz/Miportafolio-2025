@@ -55,11 +55,11 @@ const projects = [
   },
   {
     id: 5,
-    title: "Maclean - Pagina Web",
-    description: "Página web responsiva tipo landing page desarrollada para una empresa de limpieza de tapizados, enfocada en mostrar servicios, beneficios y facilitar el contacto de potenciales clientes.",
-    image: "https://i.ibb.co/Cswh9Mn1/Macleanlimpiezafoto.png",
-    url: "https://www.macleanlimpieza.com/",
-    github: "https://github.com/EzequielGonz/macleanpage",
+    title: "SaintMary - Pagina Web",
+    description: "Tienda online totalmente responsiva, desarrollada con panel de administración completo que permite la gestión integral de productos, incluyendo subida de imágenes, edición, eliminación y actualización de información. Cuenta con una base de datos integrada para el manejo eficiente del inventario y ofrece una experiencia de compra fluida y moderna para los usuarios.",
+    image: "https://i.ibb.co/wNKbhTBk/SAINTMERYpreview.png",
+    url: "https://v0-landing-page-dietetica.vercel.app/",
+    github: "https://github.com/EzequielGonz/Saintmery---ECommerce",
     category: "E-commerce",
     technologies: ["Next.js", "Stripe", "PostgreSQL", "Prisma"],
     featured: true

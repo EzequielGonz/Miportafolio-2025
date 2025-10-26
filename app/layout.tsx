@@ -14,10 +14,10 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "/memoji2-removebg-preview.png",
+        url: "/og-image.png",
         width: 512,
         height: 512,
-        alt: "Ezequiel González Memoji"
+        alt: "Ezequiel González"
       }
     ]
   },
@@ -27,8 +27,8 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     images: [
       {
-        url: "/memoji2-removebg-preview.png",
-        alt: "Ezequiel González Memoji"
+        url: "/og-image.png",
+        alt: "Ezequiel González"
       }
     ]
   },
